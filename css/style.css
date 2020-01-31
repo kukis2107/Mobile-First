@@ -125,3 +125,12 @@ img {
         order: 2;
     }
 }
+
+/** Opcional **/
+.entrada-blog {
+    margin-bottom: 2rem;
+    margin-bottom: 1px solid red;
+}
+.entrada-blog:last-of-type {
+    border: none;
+}
