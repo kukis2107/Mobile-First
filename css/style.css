@@ -129,7 +129,7 @@ img {
 /** Opcional **/
 .entrada-blog {
     margin-bottom: 2rem;
-    margin-bottom: 1px solid red;
+    border-bottom: 1px solid #e1e1e1;
 }
 .entrada-blog:last-of-type {
     border: none;
